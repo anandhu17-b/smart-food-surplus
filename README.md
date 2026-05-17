@@ -1,4 +1,4 @@
-# smart_food_surplus
+# food_app
 
 A new Flutter project.
 
