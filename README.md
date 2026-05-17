@@ -1,16 +1,32 @@
-# food_app
+# Smart Food Surplus Redistribution System
 
-A new Flutter project.
+An IoT-based smart food monitoring system developed to reduce food waste and improve surplus food redistribution.
 
-## Getting Started
+## Features
+- Real-time temperature monitoring
+- Food weight tracking
+- Firebase cloud integration
+- Mobile app interface
+- Sensor-based monitoring system
 
-This project is a starting point for a Flutter application.
+## Technologies Used
+- Flutter
+- Firebase
+- ESP32
+- DS18B20
+- HX711
+- Load Cell
 
-A few resources to get you started if this is your first Flutter project:
+## Hardware Components
+- ESP32
+- DS18B20 Temperature Sensor
+- Load Cell
+- HX711 Amplifier
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Project Goal
+The project aims to monitor food conditions and help redistribute surplus food efficiently using IoT technology.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Future Improvements
+- Notifications for food spoilage
+- Admin dashboard
+- GPS-based redistribution tracking
